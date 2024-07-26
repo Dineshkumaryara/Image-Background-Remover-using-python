@@ -2,6 +2,9 @@
 
 This project is a Python script that removes the background from an uploaded image, specifically focusing on isolating a person. It uses the `rembg` library, which leverages deep learning models to perform background removal.
 
+![Untitled design](https://github.com/user-attachments/assets/23aeb754-ccd3-48ce-9555-6623f5065de5)
+
+
 ## Installation
 
 1. **Clone the Repository**:
